@@ -1,0 +1,25 @@
+{
+  "name": "internet-manny-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3",
+    "sqlite3": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bflFrank/Internet-Manny-Database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bflFrank/Internet-Manny-Database/issues"
+  },
+  "homepage": "https://github.com/bflFrank/Internet-Manny-Database#readme"
+}
