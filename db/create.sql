@@ -34,7 +34,7 @@ create table awards(
 create table directors(
     id_director integer primary key asc,
     firstname text not null,
-    lastname text not null,
+    lastname text not null
 );
 create table production(
     id_production integer primary key asc,
