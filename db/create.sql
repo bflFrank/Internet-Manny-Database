@@ -9,7 +9,10 @@ create table users(
     id_user integer primary key asc,
     firstname text not null,
     lastname text not null,
-    dateofbirth datetime not null
+    dateofbirth datetime not null,
+    password text not null,
+    salt text not null,
+    email text not null
 );
 create table actors(
     id_actor integer not null,
